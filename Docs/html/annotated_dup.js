@@ -7,7 +7,6 @@ var annotated_dup =
     [ "GameControl", "class_game_control.html", "class_game_control" ],
     [ "LevelLoader", "class_level_loader.html", "class_level_loader" ],
     [ "LTexture", "class_l_texture.html", "class_l_texture" ],
-    [ "Paddle", "class_paddle.html", "class_paddle" ],
     [ "Player", "class_player.html", "class_player" ],
     [ "ResourceManager", "class_resource_manager.html", "class_resource_manager" ],
     [ "SDLProgram", "class_s_d_l_program.html", "class_s_d_l_program" ],

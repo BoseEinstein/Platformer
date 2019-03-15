@@ -1,4 +1,4 @@
-var dir_59ed1c07afeca4744d066aebe1bf7158 =
+var dir_d44c64559bbebec7f509842c48db8b23 =
 [
     [ "AudioManager.h", "_audio_manager_8h_source.html", null ],
     [ "CollisionManager.h", "_collision_manager_8h_source.html", null ],
@@ -9,7 +9,6 @@ var dir_59ed1c07afeca4744d066aebe1bf7158 =
     [ "GameStatus.h", "_game_status_8h_source.html", null ],
     [ "LevelLoader.h", "_level_loader_8h_source.html", null ],
     [ "LTexture.h", "_l_texture_8h_source.html", null ],
-    [ "Paddle.h", "_paddle_8h_source.html", null ],
     [ "Player.h", "_player_8h_source.html", null ],
     [ "ResourceManager.h", "_resource_manager_8h_source.html", null ],
     [ "SDLProgram.h", "_s_d_l_program_8h_source.html", null ],
