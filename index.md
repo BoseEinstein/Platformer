@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Gravity Reversal Platformer
 
 You can use the [editor on GitHub](https://github.com/BoseEinstein/platformer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
