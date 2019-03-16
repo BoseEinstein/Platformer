@@ -41,3 +41,6 @@ A robust and smooth menu interace would also greatly improve the user experience
 
 ### Team Limit Break
 - James Thomas
+- Leslie Xu
+-Ruby Tartakovsky
+
