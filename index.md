@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Download!
 
-[Click here to download!]
+[Click here to download!](https://drive.google.com/file/d/1XUS9kCdc3grlqoUV-f6pDagH1nQa_pti/view?usp=sharing)
 
 
 ## Documentation
@@ -19,7 +19,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Gameplay Trailer
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oxTVi5b_POs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nuksXo96LBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
