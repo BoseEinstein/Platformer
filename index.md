@@ -25,9 +25,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Screenshots
 
-![img1](screenshot1.png)
-![img2](screenshot1.png)
-![img3](screenshot1.png)
+![img1](/images/screenshot1.png)
+![img2](/images/screenshot1.png)
+![img3](/images/screenshot1.png)
 
 
 ## Platformer Post Mortem
