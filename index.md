@@ -24,10 +24,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ## Screenshots
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Mvgbagv"><a href="//imgur.com/Mvgbagv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ![img1](/images/screenshot1.png)
 ![img2](/images/screenshot2.png)
 ![img3](/images/screenshot3.png)
+![img4] (https://imgur.com/PBXsJA8)
 
 
 ## Platformer Post Mortem
